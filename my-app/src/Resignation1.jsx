@@ -1,6 +1,6 @@
 import React from 'react'
 import { IoIosArrowBack } from "react-icons/io";
-import kab from "./assets/praveen.jpg";
+import kabs from "./assets/Kabs_Profile.png";
 const Resignation1 = () => {
   return (
     <>
@@ -11,7 +11,7 @@ const Resignation1 = () => {
           </div>
           <div className="relative ml-10 top-8">
             <img
-              src={kab}
+              src={kabs}
               className="w-[115px] h-[115px] rounded-full border-2 border-white"
               alt="Mphasis Logo"
             />
